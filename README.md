@@ -1,5 +1,5 @@
    #                    👋Hi, I’m Akebu, 
-   ##       I'm a 2nd year Software Enigineering Student
+   ##       I'm a 3nd year Software Enigineering Student
 
 ### About Me:
 - I’m interested in Android App Development and Web Development
