@@ -24,9 +24,13 @@
 [<img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />](https://www.canva.com/)
 
 ### Tasks for the year:
-- [ ] Create portofolio website
+- [x] Create portofolio website
 - [x] Learn Kotlin fundamentals and be comfortable with them
 - [x] Learn JavaScript fundamentals and be comfortable with them
+- [ ] Start learning Android
+- [ ] Fnish Udemy courses
+- [ ] Start applyong for internships
+- [ ] Learn and start contributing to Open Source
 
 ![Akebu's github stats](https://github-readme-stats.vercel.app/api?username=akebu6)
 
