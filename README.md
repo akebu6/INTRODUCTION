@@ -3,15 +3,15 @@
 
 ### About Me:
 - I’m interested in Android App Development and Web Development
-- I’m currently learning HTML, CSS, Kotlin and JavaScript
+- I’m currently learning Kotlin for the next six months and building projects
 - I love writing and can you find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - In my free time I like to read novels, write poetry and fictional novels of my own as well as try to draw 
 - I currently volunteer at my college's ROTARACT CLUB and I am the club secretary
 - I am also a part of a club under Hackclub at my college
 
 ### Languages I know & Use
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 [<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://www.w3schools.com/cpp/)
-[<img align="left" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />](https://kotlinlang.org/)
 [<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" />](https://www.javascript.com/)
 [<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://www.w3schools.com/css/)
