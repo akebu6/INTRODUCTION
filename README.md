@@ -23,6 +23,17 @@
 [<img alt="premiere pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />](https://www.canva.com/)
 [<img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />](https://www.canva.com/)
 
+### GitHub Stats
+<p>
+   <img  align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=akebu6&show_icons=true&theme=algolia" />
+   <img  align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akebu6&theme=algolia" />
+</p>
+
+<p>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akebu6&layout=compact" />
+</p>
+
+                          
 ### Tasks for the year:
 - [x] Create portofolio website
 - [x] Learn Kotlin fundamentals and be comfortable with them
@@ -32,7 +43,7 @@
 - [ ] Start applyong for internships
 - [ ] Learn and start contributing to Open Source
 
-![Akebu's github stats](https://github-readme-stats.vercel.app/api?username=akebu6)
+
 
 ### Come connect with me:
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akebu-simasiku-24186720a/)
