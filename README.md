@@ -1,4 +1,5 @@
-   #                    👋Hi, I’m Akebu, 
+  <!--START_SECTION:activity-->
+  #                    👋Hi, I’m Akebu, 
    ##       I'm a 3rd year Software Enigineering Student
 
 ### About Me:
@@ -48,9 +49,8 @@
 - [ ] Learn and start contributing to Open Source
 
 ### :zap: Recent Activity
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+
 
 <!---
 akebu6/akebu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
