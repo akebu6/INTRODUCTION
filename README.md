@@ -47,12 +47,6 @@
 - [ ] Start applyong for internships
 - [ ] Learn and start contributing to Open Source
 
-
-### GitHub Activity
-
-<!--START_SECTION:activity-->
-
-
 <!---
 akebu6/akebu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
