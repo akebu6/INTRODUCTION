@@ -28,9 +28,6 @@
 [<img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />](https://www.canva.com/)
 
 ### GitHub Stats
-<!--START_SECTION:activity-->
-
-
 <p>
    <img  align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=akebu6&show_icons=true&theme=algolia" />
    <img  align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akebu6&theme=algolia" />
@@ -49,6 +46,11 @@
 - [ ] Finish Udemy courses
 - [ ] Start applyong for internships
 - [ ] Learn and start contributing to Open Source
+
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <!---
 akebu6/akebu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
