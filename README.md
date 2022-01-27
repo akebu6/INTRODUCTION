@@ -28,7 +28,7 @@
 - [x] Learn Kotlin fundamentals and be comfortable with them
 - [x] Learn JavaScript fundamentals and be comfortable with them
 - [ ] Start learning Android
-- [ ] Fnish Udemy courses
+- [ ] Finish Udemy courses
 - [ ] Start applyong for internships
 - [ ] Learn and start contributing to Open Source
 
