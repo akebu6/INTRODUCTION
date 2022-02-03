@@ -49,9 +49,9 @@
 
 ### :zap: Recent Activity
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/akebu6/Chrome-Extension/pull/1) in [akebu6/Chrome-Extension](https://github.com/akebu6/Chrome-Extension)
-2. 💪 Opened PR [#1](https://github.com/akebu6/Chrome-Extension/pull/1) in [akebu6/Chrome-Extension](https://github.com/akebu6/Chrome-Extension)
-3. 🎉 Merged PR [#1](https://github.com/akebu6/Popping-Penguin/pull/1) in [akebu6/Popping-Penguin](https://github.com/akebu6/Popping-Penguin)
+1. ❗️ Opened issue [#3467](https://github.com/EddieHubCommunity/support/issues/3467) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🎉 Merged PR [#1](https://github.com/akebu6/Chrome-Extension/pull/1) in [akebu6/Chrome-Extension](https://github.com/akebu6/Chrome-Extension)
+3. 💪 Opened PR [#1](https://github.com/akebu6/Chrome-Extension/pull/1) in [akebu6/Chrome-Extension](https://github.com/akebu6/Chrome-Extension)
 4. 💪 Opened PR [#1](https://github.com/akebu6/Popping-Penguin/pull/1) in [akebu6/Popping-Penguin](https://github.com/akebu6/Popping-Penguin)
 5. 🎉 Merged PR [#1](https://github.com/akebu6/Kotlin/pull/1) in [akebu6/Kotlin](https://github.com/akebu6/Kotlin)
 <!--END_SECTION:activity-->
