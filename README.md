@@ -6,8 +6,9 @@
 - I’m currently learning Kotlin for the next six months and building projects
 - I love writing and can you find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - In my free time I like to read novels, write poetry and fictional novels of my own as well as try to draw 
-- I currently volunteer at my college's ROTARACT CLUB and I am the club secretary
-- I am also a part of a club under Hackclub at my college
+- I currently volunteer at my college's ROTARACT CLUB
+- A part of a club under Hackclub at my college
+- Was part of the team that organised the first code wars at college
 
 ### Come connect with me:
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akebu-simasiku-24186720a/)
