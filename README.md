@@ -42,9 +42,11 @@
 ### Tasks for the year:
 - [x] Create portofolio website
 - [x] Learn Kotlin fundamentals and be comfortable with them
+- [ ] Horn my Kotlin skills
 - [x] Learn JavaScript fundamentals and be comfortable with them
 - [ ] Start learning Android
 - [ ] Finish Udemy courses
+- [ ] Participate in the Google KS competition
 - [ ] Start applyong for internships
 - [ ] Learn and start contributing to Open Source
 
