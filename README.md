@@ -37,8 +37,7 @@
 <p align="center">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akebu6&layout=compact&theme=algolia" />
 </p>
-
-                          
+               
 ### Tasks for the year:
 - [x] Create portofolio website
 - [x] Learn Kotlin fundamentals and be comfortable with them
@@ -58,7 +57,6 @@
 4. 💪 Opened PR [#1](https://github.com/akebu6/Popping-Penguin/pull/1) in [akebu6/Popping-Penguin](https://github.com/akebu6/Popping-Penguin)
 5. 🎉 Merged PR [#1](https://github.com/akebu6/Kotlin/pull/1) in [akebu6/Kotlin](https://github.com/akebu6/Kotlin)
 <!--END_SECTION:activity-->
-
 
 <!---
 akebu6/akebu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
