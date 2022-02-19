@@ -27,17 +27,20 @@
 [<img alt="premiere pro" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" />](https://www.canva.com/)
 [<img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />](https://www.canva.com/)
 
-### GitHub Stats
-<p>
+<details>
+   <summary> GitHub Stats</summary>
    <img  align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=akebu6&show_icons=true&theme=algolia" />
    <img  align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akebu6&theme=algolia" />
-</p>
 
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akebu6&layout=compact&theme=algolia" />
-</p>
-               
-### Tasks for the year:
+   <p align="center">
+       <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akebu6&layout=compact&theme=algolia" />
+   </p>
+   
+</details>
+
+<details>
+   <summary>Tasks for the year:</summary>
+
 - [x] Create portofolio website
 - [x] Learn Kotlin fundamentals and be comfortable with them
 - [ ] Horn my Kotlin skills
@@ -47,15 +50,7 @@
 - [ ] Participate in the Google KS competition
 - [ ] Start applyong for internships
 - [ ] Learn and start contributing to Open Source
-
-### :zap: Recent Activity
-  <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3467](https://github.com/EddieHubCommunity/support/issues/3467) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
-2. 🎉 Merged PR [#1](https://github.com/akebu6/Chrome-Extension/pull/1) in [akebu6/Chrome-Extension](https://github.com/akebu6/Chrome-Extension)
-3. 💪 Opened PR [#1](https://github.com/akebu6/Chrome-Extension/pull/1) in [akebu6/Chrome-Extension](https://github.com/akebu6/Chrome-Extension)
-4. 💪 Opened PR [#1](https://github.com/akebu6/Popping-Penguin/pull/1) in [akebu6/Popping-Penguin](https://github.com/akebu6/Popping-Penguin)
-5. 🎉 Merged PR [#1](https://github.com/akebu6/Kotlin/pull/1) in [akebu6/Kotlin](https://github.com/akebu6/Kotlin)
-<!--END_SECTION:activity-->
+</details>
 
 <!---
 akebu6/akebu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
