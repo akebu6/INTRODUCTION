@@ -48,7 +48,7 @@
 - [ ] Start learning Android
 - [ ] Finish Udemy courses
 - [ ] Participate in the Google KS competition
-- [ ] Start applyong for internships
+- [ ] Start applying for internships
 - [ ] Learn and start contributing to Open Source
 </details>
 
