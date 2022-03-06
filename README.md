@@ -5,7 +5,7 @@
 - I’m interested in Android App Development and Web Development
 - I’m currently learning Kotlin for the next six months while also building projects
 - I love writing and you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
-- In my free time I like to, watch anime, read novels, write poetry and fictional novels of my own as well as try to draw 
+- In my free time I like to; watch anime, read novels, write poetry and fictional novels of my own as well as try to draw and play chess
 - I currently volunteer at my University's ROTARACT CLUB
 - I'm also a part of a club under Hackclub
 
