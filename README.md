@@ -62,6 +62,12 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#10](https://github.com/akebu6/Kotlin-Notes/issues/10) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+2. ❗️ Opened issue [#18](https://github.com/FrancescoXX/100-days-of-Web3/issues/18) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+3. ❗️ Opened issue [#13](https://github.com/FrancescoXX/100-days-of-Web3/issues/13) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+4. 🎉 Merged PR [#9](https://github.com/akebu6/Kotlin-Notes/pull/9) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+5. 💪 Opened PR [#9](https://github.com/akebu6/Kotlin-Notes/pull/9) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+<!--END_SECTION:activity-->
 
 <!---
 akebu6/akebu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
