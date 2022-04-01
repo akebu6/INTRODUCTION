@@ -59,6 +59,8 @@
 - [ ] Save enough to get a Mac
 </details>
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
 <!---
