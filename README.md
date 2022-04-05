@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15](https://github.com/akebu6/JetBrains-Academy-Projects/issues/15) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
-2. ❗️ Opened issue [#14](https://github.com/akebu6/JetBrains-Academy-Projects/issues/14) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
-3. ❗️ Opened issue [#10](https://github.com/akebu6/Kotlin-Notes/issues/10) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
-4. ❗️ Opened issue [#18](https://github.com/FrancescoXX/100-days-of-Web3/issues/18) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
-5. ❗️ Opened issue [#13](https://github.com/FrancescoXX/100-days-of-Web3/issues/13) in [FrancescoXX/100-days-of-Web3](https://github.com/FrancescoXX/100-days-of-Web3)
+1. ❗️ Opened issue [#12](https://github.com/akebu6/Kotlin-Notes/issues/12) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+2. ❗️ Opened issue [#11](https://github.com/akebu6/Kotlin-Notes/issues/11) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+3. ❗️ Opened issue [#15](https://github.com/akebu6/JetBrains-Academy-Projects/issues/15) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
+4. ❗️ Opened issue [#14](https://github.com/akebu6/JetBrains-Academy-Projects/issues/14) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
+5. ❗️ Opened issue [#10](https://github.com/akebu6/Kotlin-Notes/issues/10) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
 <!--END_SECTION:activity-->
 
 <!---
