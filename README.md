@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/akebu6/JetBrains-Academy-Projects/issues/14) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
-2. 🗣 Commented on [#14](https://github.com/akebu6/JetBrains-Academy-Projects/issues/14) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
-3. ❗️ Closed issue [#15](https://github.com/akebu6/JetBrains-Academy-Projects/issues/15) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
-4. 🗣 Commented on [#15](https://github.com/akebu6/JetBrains-Academy-Projects/issues/15) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
-5. 🗣 Commented on [#12](https://github.com/akebu6/Kotlin-Notes/issues/12) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+1. ❗️ Closed issue [#7](https://github.com/akebu6/akebu6/issues/7) in [akebu6/akebu6](https://github.com/akebu6/akebu6)
+2. 🗣 Commented on [#7](https://github.com/akebu6/akebu6/issues/7) in [akebu6/akebu6](https://github.com/akebu6/akebu6)
+3. ❗️ Closed issue [#14](https://github.com/akebu6/JetBrains-Academy-Projects/issues/14) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
+4. 🗣 Commented on [#14](https://github.com/akebu6/JetBrains-Academy-Projects/issues/14) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
+5. ❗️ Closed issue [#15](https://github.com/akebu6/JetBrains-Academy-Projects/issues/15) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
 <!--END_SECTION:activity-->
 
 <!---
