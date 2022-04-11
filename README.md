@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/akebu6/Vaccinated-Counter/issues/2) in [akebu6/Vaccinated-Counter](https://github.com/akebu6/Vaccinated-Counter)
-2. 🗣 Commented on [#2](https://github.com/akebu6/Vaccinated-Counter/issues/2) in [akebu6/Vaccinated-Counter](https://github.com/akebu6/Vaccinated-Counter)
-3. ❗️ Closed issue [#7](https://github.com/akebu6/akebu6/issues/7) in [akebu6/akebu6](https://github.com/akebu6/akebu6)
-4. 🗣 Commented on [#7](https://github.com/akebu6/akebu6/issues/7) in [akebu6/akebu6](https://github.com/akebu6/akebu6)
-5. ❗️ Closed issue [#14](https://github.com/akebu6/JetBrains-Academy-Projects/issues/14) in [akebu6/JetBrains-Academy-Projects](https://github.com/akebu6/JetBrains-Academy-Projects)
+1. ❗️ Closed issue [#1](https://github.com/akebu6/Kotlin-Content/issues/1) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
+2. 🗣 Commented on [#1](https://github.com/akebu6/Kotlin-Content/issues/1) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
+3. ❗️ Closed issue [#2](https://github.com/akebu6/Vaccinated-Counter/issues/2) in [akebu6/Vaccinated-Counter](https://github.com/akebu6/Vaccinated-Counter)
+4. 🗣 Commented on [#2](https://github.com/akebu6/Vaccinated-Counter/issues/2) in [akebu6/Vaccinated-Counter](https://github.com/akebu6/Vaccinated-Counter)
+5. ❗️ Closed issue [#7](https://github.com/akebu6/akebu6/issues/7) in [akebu6/akebu6](https://github.com/akebu6/akebu6)
 <!--END_SECTION:activity-->
 
 <!---
