@@ -56,7 +56,7 @@
 - [ ] Start applying for internships
 - [x] Learn and start contributing to Open Source
 - [ ] Earn from my work
-- [ ] Save enough to get a Mac
+- [ ] Blog about my learnibg journey
 </details>
 
 ### :zap: Recent Activity
