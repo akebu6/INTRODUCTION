@@ -62,11 +62,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/akebu6/Kotlin-Content/issues/4) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
-2. ❗️ Opened issue [#16](https://github.com/akebu6/Kotlin-Notes/issues/16) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
-3. ❗️ Opened issue [#15](https://github.com/akebu6/Kotlin-Notes/issues/15) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
-4. ❗️ Opened issue [#1](https://github.com/akebu6/Illustrations/issues/1) in [akebu6/Illustrations](https://github.com/akebu6/Illustrations)
-5. ❗️ Closed issue [#1](https://github.com/akebu6/Kotlin-Content/issues/1) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
+1. ❗️ Opened issue [#20](https://github.com/hussien89aa/KotlinUdemy/issues/20) in [hussien89aa/KotlinUdemy](https://github.com/hussien89aa/KotlinUdemy)
+2. ❗️ Opened issue [#4](https://github.com/akebu6/Kotlin-Content/issues/4) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
+3. ❗️ Opened issue [#16](https://github.com/akebu6/Kotlin-Notes/issues/16) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+4. ❗️ Opened issue [#15](https://github.com/akebu6/Kotlin-Notes/issues/15) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+5. ❗️ Opened issue [#1](https://github.com/akebu6/Illustrations/issues/1) in [akebu6/Illustrations](https://github.com/akebu6/Illustrations)
 <!--END_SECTION:activity-->
 
 <!---
