@@ -63,11 +63,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/akebu6/Android-Beginner-Projects/issues/2) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-2. 🎉 Merged PR [#1](https://github.com/akebu6/Android-Beginner-Projects/pull/1) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-3. 💪 Opened PR [#1](https://github.com/akebu6/Android-Beginner-Projects/pull/1) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-4. ❗️ Opened issue [#20](https://github.com/hussien89aa/KotlinUdemy/issues/20) in [hussien89aa/KotlinUdemy](https://github.com/hussien89aa/KotlinUdemy)
-5. ❗️ Opened issue [#4](https://github.com/akebu6/Kotlin-Content/issues/4) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
+1. ❗️ Opened issue [#4](https://github.com/akebu6/Android-Beginner-Projects/issues/4) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+2. 🗣 Commented on [#3](https://github.com/akebu6/Android-Beginner-Projects/issues/3) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+3. 🎉 Merged PR [#3](https://github.com/akebu6/Android-Beginner-Projects/pull/3) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+4. ❌ Reopened PR [#3](https://github.com/akebu6/Android-Beginner-Projects/pull/3) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+5. ❌ Closed PR [#3](https://github.com/akebu6/Android-Beginner-Projects/pull/3) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
 <!--END_SECTION:activity-->
 
 <!---
