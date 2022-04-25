@@ -63,11 +63,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11](https://github.com/akebu6/Android-Beginner-Projects/issues/11) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-2. ❗️ Closed issue [#4](https://github.com/akebu6/Android-Beginner-Projects/issues/4) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-3. 🗣 Commented on [#4](https://github.com/akebu6/Android-Beginner-Projects/issues/4) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-4. ❗️ Closed issue [#6](https://github.com/akebu6/Android-Beginner-Projects/issues/6) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-5. 🗣 Commented on [#6](https://github.com/akebu6/Android-Beginner-Projects/issues/6) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+1. 🗣 Commented on [#7](https://github.com/akebu6/Android-Beginner-Projects/issues/7) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+2. ❗️ Opened issue [#11](https://github.com/akebu6/Android-Beginner-Projects/issues/11) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+3. ❗️ Closed issue [#4](https://github.com/akebu6/Android-Beginner-Projects/issues/4) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+4. 🗣 Commented on [#4](https://github.com/akebu6/Android-Beginner-Projects/issues/4) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+5. ❗️ Closed issue [#6](https://github.com/akebu6/Android-Beginner-Projects/issues/6) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
 <!--END_SECTION:activity-->
 
 <!---
