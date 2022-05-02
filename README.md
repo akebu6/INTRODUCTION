@@ -52,10 +52,11 @@
 - [ ] Horn my Kotlin skills
 - [ ] Learn Compose
 - [ ] Learn Java
-- [ ] Learn JavaScript
+- [ ] Horn JavaScript knowledge
 - [ ] Learn PHP 
 - [x] Learn JavaScript fundamentals and be comfortable with them
 - [x] Start learning Android
+- [ ] Participate in hackathons
 - [ ] Finish Udemy courses
 - [ ] Participate in the Google KS competition
 - [ ] Start applying for internships
