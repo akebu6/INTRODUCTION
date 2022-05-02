@@ -68,11 +68,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#11](https://github.com/akebu6/Android-Beginner-Projects/issues/11) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-2. 🗣 Commented on [#11](https://github.com/akebu6/Android-Beginner-Projects/issues/11) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-3. 🗣 Commented on [#18](https://github.com/akebu6/Android-Beginner-Projects/issues/18) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-4. 🎉 Merged PR [#18](https://github.com/akebu6/Android-Beginner-Projects/pull/18) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-5. ❗️ Opened issue [#17](https://github.com/akebu6/Android-Beginner-Projects/issues/17) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+1. 🗣 Commented on [#2](https://github.com/akebu6/Kotlin-Content/issues/2) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
+2. ❗️ Closed issue [#2](https://github.com/akebu6/Kotlin-Content/issues/2) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
+3. ❗️ Closed issue [#4](https://github.com/akebu6/Kotlin-Content/issues/4) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
+4. 🗣 Commented on [#4](https://github.com/akebu6/Kotlin-Content/issues/4) in [akebu6/Kotlin-Content](https://github.com/akebu6/Kotlin-Content)
+5. ❗️ Closed issue [#11](https://github.com/akebu6/Android-Beginner-Projects/issues/11) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
 <!--END_SECTION:activity-->
 
 <!---
