@@ -50,6 +50,10 @@
 - [x] Create portofolio website
 - [x] Learn Kotlin fundamentals and be comfortable with them
 - [ ] Horn my Kotlin skills
+- [ ] Learn Compose
+- [ ] Learn Java
+- [ ] Learn JavaScript
+- [ ] Learn PHP 
 - [x] Learn JavaScript fundamentals and be comfortable with them
 - [x] Start learning Android
 - [ ] Finish Udemy courses
