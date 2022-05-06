@@ -68,11 +68,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/akebu6/Android-Beginner-Projects/issues/20) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-2. 🗣 Commented on [#20](https://github.com/akebu6/Android-Beginner-Projects/issues/20) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-3. 🎉 Merged PR [#20](https://github.com/akebu6/Android-Beginner-Projects/pull/20) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-4. 🗣 Commented on [#19](https://github.com/akebu6/Android-Beginner-Projects/issues/19) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-5. 🎉 Merged PR [#19](https://github.com/akebu6/Android-Beginner-Projects/pull/19) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+1. 🎉 Merged PR [#21](https://github.com/akebu6/Android-Beginner-Projects/pull/21) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+2. 💪 Opened PR [#21](https://github.com/akebu6/Android-Beginner-Projects/pull/21) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+3. 🗣 Commented on [#20](https://github.com/akebu6/Android-Beginner-Projects/issues/20) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+4. 🗣 Commented on [#20](https://github.com/akebu6/Android-Beginner-Projects/issues/20) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+5. 🎉 Merged PR [#20](https://github.com/akebu6/Android-Beginner-Projects/pull/20) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
 <!--END_SECTION:activity-->
 
 <!---
