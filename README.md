@@ -68,11 +68,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/akebu6/Android-Beginner-Projects/issues/20) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-2. ❗️ Closed issue [#14](https://github.com/akebu6/Kotlin-Notes/issues/14) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
-3. 🗣 Commented on [#14](https://github.com/akebu6/Kotlin-Notes/issues/14) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
-4. ❗️ Closed issue [#10](https://github.com/akebu6/Kotlin-Notes/issues/10) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
-5. 🗣 Commented on [#10](https://github.com/akebu6/Kotlin-Notes/issues/10) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+1. 💪 Opened PR [#1287](https://github.com/EddieHubCommunity/LinkFree/pull/1287) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🗣 Commented on [#20](https://github.com/akebu6/Android-Beginner-Projects/issues/20) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
+3. ❗️ Closed issue [#14](https://github.com/akebu6/Kotlin-Notes/issues/14) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+4. 🗣 Commented on [#14](https://github.com/akebu6/Kotlin-Notes/issues/14) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
+5. ❗️ Closed issue [#10](https://github.com/akebu6/Kotlin-Notes/issues/10) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
 <!--END_SECTION:activity-->
 
 <!---
