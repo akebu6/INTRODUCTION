@@ -49,6 +49,7 @@
 
 - [x] Create portofolio website
 - [x] Learn Kotlin fundamentals and be comfortable with them
+- [x] Complete 100 Days of Kotlin   
 - [ ] Horn my Kotlin skills
 - [ ] Learn Compose
 - [ ] Learn Java
