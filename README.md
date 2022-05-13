@@ -63,7 +63,7 @@
 - [ ] Start applying for internships
 - [x] Learn and start contributing to Open Source
 - [ ] Earn from my work
-- [ ] Blog about my learnibg journey
+- [ ] Blog about my learning journey
 </details>
 
 <!---
