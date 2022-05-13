@@ -3,7 +3,7 @@
 
 ### About Me:
 - Interested in Android App Development and Web Development
-- Currently learning Kotlin from JetBrains Academy for the next three months while also building projects
+- Currently learning Compose
 - An Open Source enthusiast looking for projects to contribute to
 - I love writing and you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - In my free time I like to; watch anime, read novels, write poetry and fictional novels of my own as well as try to draw and play chess
