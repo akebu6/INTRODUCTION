@@ -65,16 +65,6 @@
 - [ ] Blog about my learnibg journey
 </details>
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Susmita-Dey/Moody/issues/2) in [Susmita-Dey/Moody](https://github.com/Susmita-Dey/Moody)
-2. 🗣 Commented on [#1287](https://github.com/EddieHubCommunity/LinkFree/issues/1287) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 💪 Opened PR [#1287](https://github.com/EddieHubCommunity/LinkFree/pull/1287) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🗣 Commented on [#20](https://github.com/akebu6/Android-Beginner-Projects/issues/20) in [akebu6/Android-Beginner-Projects](https://github.com/akebu6/Android-Beginner-Projects)
-5. ❗️ Closed issue [#14](https://github.com/akebu6/Kotlin-Notes/issues/14) in [akebu6/Kotlin-Notes](https://github.com/akebu6/Kotlin-Notes)
-<!--END_SECTION:activity-->
-
 <!---
 akebu6/akebu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
