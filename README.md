@@ -22,8 +22,6 @@
 [<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1" />](https://www.javascript.com/)
 [<img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://www.w3schools.com/css/)
-<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
@@ -37,6 +35,8 @@
 <img alt="atom-ide" src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
 <img alt="intellij-idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img alt="android" src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
+<img alt="git" src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
 
 
 <details>
