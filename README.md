@@ -55,7 +55,8 @@
 
 - [x] Create portofolio website
 - [x] Learn Kotlin fundamentals and be comfortable with them
-- [x] Complete 100 Days of Kotlin   
+- [x] Complete 100 Days of Kotlin 
+- [ ] Participate in GSoC
 - [ ] Horn my Kotlin skills
 - [ ] Learn Compose
 - [ ] Learn Java
@@ -70,6 +71,7 @@
 - [x] Learn and start contributing to Open Source
 - [ ] Earn from my work
 - [ ] Blog about my learning journey
+- [ ] Speak in Twitter Spaces
 </details>
 
 <!---
