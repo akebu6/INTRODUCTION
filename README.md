@@ -1,7 +1,7 @@
-   #                    👋Hi, I’m Akebu, 
-   ##       I'm a 3rd year Software Enigineering Student
+<img height="380" width="1000" src="https://user-images.githubusercontent.com/74776297/171423293-4cb5e93d-1b6e-488b-b776-a6b59aa52757.gif" />
 
 ### About Me:
+- I'm a 3rd year Software Enigineering Student
 - Interested in Android App and Web Development
 - Currently learning Jetpack Compose from Google Android Developers
 - An Open Source enthusiast looking for projects to contribute to
@@ -24,7 +24,6 @@
 [<img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://www.w3schools.com/css/)
 <img alt="json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 <img alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-
 
 ### Tools I use
 [<img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />](https://www.figma.com/)
