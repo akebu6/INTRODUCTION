@@ -1,4 +1,4 @@
-<img height="380" width="1000" src="https://user-images.githubusercontent.com/74776297/171423293-4cb5e93d-1b6e-488b-b776-a6b59aa52757.gif" />
+![banner](https://user-images.githubusercontent.com/74776297/172069872-0d430619-2edf-4335-9b8a-98e8fadd5a8d.png)
 
 ### About Me:
 - I'm a 3rd year Software Enigineering Student
