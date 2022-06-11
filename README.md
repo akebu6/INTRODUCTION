@@ -10,6 +10,10 @@
 - I'm also a part of a club under Hackclub
 - I'm a volunteer and love helping out, you can reach me on any of my socials listed below
 
+
+### Currently Learning
+- Jeypack Compose
+
 ### Come connect with me:
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akebu-simasiku-24186720a/)
 [<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akebu6)
