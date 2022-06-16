@@ -10,12 +10,16 @@
 - I'm also a part of a club under Hackclub
 - I'm a volunteer and love helping out, you can reach me on any of my socials listed below
 
-### Currently Learning
-- Jetpack Compose
-- Flutter
-- Agile Developmemt
-- Java
-- Clean Code practices
+<details>
+   <summary><h3>Currently Learning</h3></summary>
+   <ul>
+       <li>Jetpack Compose</li>
+       <li>Flutter</li>
+       <li>Agile Developmemt</li>
+       <li>Java</li>
+       <li>Clean Code practices</li>
+   </ul>
+</details>   
 
 ### Come connect with me:
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akebu-simasiku-24186720a/)
