@@ -3,7 +3,6 @@
 ### About Me:
 - I'm a 3rd year Software Enigineering Student
 - Interested in Android App and Web Development
-- Currently learning Jetpack Compose from Google Android Developers
 - An Open Source enthusiast looking for projects to contribute to
 - I love writing and you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - In my free time I like to; watch anime, read novels, write poetry and fictional novels of my own as well as try to draw and play chess
