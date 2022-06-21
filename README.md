@@ -21,6 +21,8 @@
 </details>   
 
 ### Blogs
+<p>Recent Blog <a href="https://akebu6.hashnode.dev/my-100days-journey">My 100 Days Journey</a></p>
+
 
 ### Come connect with me:
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akebu-simasiku-24186720a/)
