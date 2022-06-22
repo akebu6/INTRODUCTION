@@ -49,7 +49,9 @@
 <img alt="intellij-idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="android" src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
-<img alt="git" src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
+<img alt="git" src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25" />
+<img alt="joplin" src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white" />
+<img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 
 
 <details>
