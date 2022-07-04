@@ -9,7 +9,6 @@
 - In my free time I like to; watch anime, read novels, write poetry and fictional novels of my own as well as try to draw and play chess
 - I'm also a part of a club under Hackclub
 - I'm a volunteer and love helping out, you can reach me on any of my socials listed below
-- Activist
 
 ### Currently Learning
 - Jetpack Compose
