@@ -12,6 +12,7 @@
 - I'm a volunteer and love helping out, you can reach me on any of my socials listed below
 
 ### Currently Learning
+- Web3 @LearnWeb3DAO
 - Jetpack Compose
 - Agile Developmemt
 - Clean Code practices  
