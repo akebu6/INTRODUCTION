@@ -15,8 +15,6 @@
 ### Currently Learning
 - Web3 @LearnWeb3DAO
 - Jetpack Compose
-- Agile Developmemt
-- Clean Code practices  
 
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/my-100days-journey">My 100 Days Journey</a></p>
