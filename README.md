@@ -1,9 +1,9 @@
 ![banner](https://user-images.githubusercontent.com/74776297/172069872-0d430619-2edf-4335-9b8a-98e8fadd5a8d.png)
 
 ### About Me:
-- I'm a 3rd year Software Enigineering Student
+- 3rd year Software Enigineering Student
 - Currently participating in Google Summer of Code 2022 with Catrobat International
-- Participating in Google Africa DeveloperScholarship 2022 in the Android Track
+- Participating in Google Africa Developer Scholarship 2022 in the Android Track
 - Interested in Android App and Web Development
 - An Open Source enthusiast looking for projects to contribute to
 - I love writing and you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
