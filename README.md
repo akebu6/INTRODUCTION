@@ -60,30 +60,6 @@
    
 </details>
 
-<details>
-   <summary>Tasks for the year:</summary>
-
-- [x] Create portofolio website
-- [x] Learn Kotlin fundamentals and be comfortable with them
-- [x] Complete 100 Days of Kotlin 
-- [ ] Participate in GSoC
-- [ ] Horn my Kotlin skills
-- [x] Learn Compose
-- [x] Learn Java
-- [ ] Horn JavaScript knowledge
-- [ ] Learn PHP 
-- [x] Learn JavaScript fundamentals and be comfortable with them
-- [x] Start learning Android
-- [x] Participate in hackathons
-- [ ] Finish Udemy courses
-- [ ] Participate in the Google KS competition
-- [x] Start applying for internships
-- [x] Learn and start contributing to Open Source
-- [ ] Earn from my work
-- [ ] Blog about my learning journey
-- [x] Speak in Twitter Spaces
-</details>
-
 <!---
 akebu6/akebu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
