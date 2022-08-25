@@ -8,7 +8,7 @@
 - An Open Source enthusiast
 - I love writing and you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - In my free time I like to; watch anime, read novels, write poetry and fictional novels of my own
-- I'm a part of a club under Hackclub
+- A part of a club under Hackclub
 - A volunteer and love helping out, you can reach me on any of my socials listed below
 
 ### Currently Learning
