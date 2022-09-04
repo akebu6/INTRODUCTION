@@ -2,7 +2,7 @@
 
 ### About Me:
 - 3rd year Software Enigineering Student
-- Currently participating in Google Summer of Code 2022 with Catrobat International
+- Google Summer of Code 2022 with Catrobat International
 - Participating in Google Africa Developer Scholarship 2022 in the Android Track
 - Interested in Android App and Web Development
 - An Open Source enthusiast
