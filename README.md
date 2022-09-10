@@ -5,7 +5,7 @@
 - Google Summer of Code 2022 with Catrobat International
 - Participating in Google Africa Developer Scholarship 2022, Android Track
 - Interested in Android App, Web Development, Machine Learning and Cloud Computing
-- An Open Source enthusiast
+- An Open Source enthusiast & Contributor
 - I love writing and you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - In my free time I like to; watch anime, read novels, write poetry and fictional novels of my own
 - A part of a club under Hackclub
