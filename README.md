@@ -2,9 +2,9 @@
 
 ### About Me:
 - 3rd year Software Enigineering Student
-- Google Summer of Code 2022 with Catrobat International
+- Google Summer of Code 2022 with Catrobat International Association working under PAINTROID
 - Participating in Google Africa Developer Scholarship 2022, Android Track
-- Interested in Android App, Web Development, Machine Learning and Cloud Computing
+- Interested in Android App, Machine Learning and Cloud Computing
 - An Open Source enthusiast & Contributor
 - I love writing and you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - In my free time I like to; watch anime, read novels, write poetry and fictional novels of my own
