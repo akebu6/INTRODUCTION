@@ -9,10 +9,7 @@
 - In my free time I like to; watch anime, read novels, write poetry and fictional novels of my own
 - A part of a club under Hackclub
 - A volunteer and love helping out, you can reach me on any of my socials listed below
-
-### Currently Learning
-- Web3 @LearnWeb3DAO
-- Jetpack Compose
+- 
 
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/my-100days-journey">My 100 Days Journey</a></p>
