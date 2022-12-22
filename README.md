@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/74776297/172069872-0d430619-2edf-4335-9b8a-98e8fadd5a8d.png)
 
 ### About Me:
-- 3rd year Software Enigineering Student
+- Software Enigineering Student
 - Google Summer of Code 2022 with Catrobat International Association working under PAINTROID
 - Interested in Android App, Machine Learning and Cloud Computing
 - An Open Source enthusiast & Contributor
@@ -9,11 +9,9 @@
 - In my free time I like to; watch anime, read novels, write poetry and fictional novels of my own
 - A part of a club under Hackclub
 - A volunteer and love helping out, you can reach me on any of my socials listed below
-- 
 
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/my-100days-journey">My 100 Days Journey</a></p>
-
 
 ### Come connect with me:
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akebu-simasiku-24186720a/)
