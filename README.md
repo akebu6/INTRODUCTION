@@ -9,6 +9,9 @@
 - In my free time I like to; watch anime, read novels, play chess
 - A volunteer who loves helping out, you can reach me on any of my socials listed below
 
+### Currently Learning 
+- Julia for Data Science
+
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/my-100days-journey">My 100 Days Journey</a></p>
 
