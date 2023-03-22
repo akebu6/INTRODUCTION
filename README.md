@@ -6,7 +6,7 @@
 - Interested in Android Application, Data Science, Testing & QA and Cloud Computing
 - An Open Source enthusiast & Contributor
 - I love writing in my free tiime, you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
-- In my free time I like to; watch anime, read novels, play chess
+- Hobbies: watch anime, read novels, play chess
 - A volunteer who loves helping out, you can reach me on any of my socials listed below
 
 ### Currently Learning 
