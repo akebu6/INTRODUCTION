@@ -7,7 +7,6 @@
 - An Open Source enthusiast and Contributor
 - I love writing in my free tiime, you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - Hobbies: watch anime, read novels, play chess, write and run
-- A volunteer who loves helping out
 - You can reach me on any of my socials listed below
 
 ### Currently Learning 
