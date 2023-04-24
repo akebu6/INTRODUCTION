@@ -10,6 +10,7 @@
 - You can reach me on any of my socials listed below
 
 ### Currently Learning 
+- Laravel for Web Development
 - Python for Data Science
 
 ### Blogs
