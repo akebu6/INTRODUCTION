@@ -3,7 +3,7 @@
 ### About Me:
 - Software Enigineering Student (Senior)
 - Google Summer of Code 2022 with Catrobat International Association working under PAINTROID
-- Interested in Android Application, Data Science, Testing as well as QA and Cloud Computing
+- Interested in Android Application, Data Science, Testing & QA and Cloud Computing
 - An Open Source enthusiast and Contributor
 - I love writing in my free tiime, you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - Hobbies: watch anime, read novels, play chess, write and run
