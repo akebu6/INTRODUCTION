@@ -9,7 +9,7 @@
 - Hobbies: watch anime, read novels, play chess, write and run
 - You can reach me on any of my socials listed below
 
-### Currently Learning The Following Technologies
+### Currently Learning
 - Flutter for Android Development
 - Laravel for Web Development
 - Python for Data Science
