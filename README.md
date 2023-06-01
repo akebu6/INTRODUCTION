@@ -1,7 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/74776297/172069872-0d430619-2edf-4335-9b8a-98e8fadd5a8d.png)
 
 ### About Me:
-- Software Enigineering Student (Senior)
+- Software Enigineering College Student (Senior)
 - Google Summer of Code 2022 with Catrobat International Association working under PAINTROID
 - Interested in Android Application, Data Science, Testing & QA and Cloud Computing
 - An Open Source enthusiast and Contributor
