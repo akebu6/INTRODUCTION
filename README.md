@@ -13,8 +13,6 @@
 ### Currently Learning
 - Data Analytics 
 - Flutter for Android Development
-- Laravel for Web Development
-- Python for Data Science
 
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/my-100days-journey">My 100 Days Journey</a></p>
