@@ -14,6 +14,7 @@
 - Data Analytics 
 - Flutter for Android Development
 - Python
+- R for Data Analytics
 
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/data-analysis-process-and-data-life-cycle">Data Analysis Process and Data Life Cycle</a></p>
