@@ -11,7 +11,7 @@
 - You can reach me on any of my socials listed below
 
 ### Currently Learning
-- Data Analytics 
+- Data Analytics from Coursera
 - Flutter for Android Development
 - Python
 - R for Data Analytics
