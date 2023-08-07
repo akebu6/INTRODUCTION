@@ -14,7 +14,7 @@
 - Data Analytics from Coursera
 - Flutter for Android Development
 - Python
-- R for Data Analytics
+- R for Data Analytics from Coursera
 
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/data-analysis-process-and-data-life-cycle">Data Analysis Process and Data Life Cycle</a></p>
