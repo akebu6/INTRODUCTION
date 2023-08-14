@@ -3,6 +3,7 @@
 ### About Me:
 - Software Enigineering College Student
 - Google Summer of Code (2022) with Catrobat International Association working under PAINTROID
+- Streamlit Student Ambassador
 - Interested in Android Application, Data Science, Testing & QA and Cloud Computing
 - An Open Source enthusiast and Contributor
 - A Hackathon enthusiast open to collaborating on any projects
