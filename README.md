@@ -6,7 +6,7 @@
 - Streamlit Student Ambassador
 - Interested in Android Application, Data Science, Testing & QA and Cloud Computing
 - An Open Source enthusiast and Contributor
-- A Hackathon enthusiast open to collaborating on any projects
+- I'm a Hackathon enthusiast open to collaborating on any projects
 - I love writing in my free tiime, you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - Hobbies: watch anime, read novels, play chess, write and run
 - You can reach me on any of my socials listed below
