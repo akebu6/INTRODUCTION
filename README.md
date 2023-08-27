@@ -13,7 +13,6 @@
 
 ### Currently Learning
 - Data Analytics
-- Flutter for Android Development
 - Python
 - R for Data Analytics
 
