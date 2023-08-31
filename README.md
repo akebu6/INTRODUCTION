@@ -1,7 +1,7 @@
 ![Banner](https://github.com/akebu6/akebu6/assets/74776297/8bc42fbf-064c-4a10-a12a-d56899d4abb8)
 
 
-### About Me:
+### 👩🏽‍💻About Me:
 - Software Enigineering College Student
 - Google Summer of Code (2022) with Catrobat International Association working under PAINTROID
 - Streamlit Student Ambassador
@@ -13,7 +13,7 @@
 - You can reach me on any of my socials listed below
 - View my portflio which is built using Streamlit, [link](https://portfolio-akebu.streamlit.app/) 
 
-### Currently Learning
+### 🖥️Currently Learning
 - Data Analytics [Course Completed]
 - Python
 - R for Data Analytics
