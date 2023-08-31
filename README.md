@@ -21,14 +21,19 @@
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/data-analysis-process-and-data-life-cycle">Data Analysis Process and Data Life Cycle</a></p>
 
-| Year | Name of Hackathon | Project | Achievement | Explore Project |
-| ---- | ----------------- | ------- | ----------- | --------------- |
-| 2023 | HackBytes II | PennyWise | Best use of Qoom | [View](https://penny-wise-one.vercel.app/) | 
-| 2023 | TechTogether Online | SelfWatch | Best use of GitHub | N/A | 
-| 2023 | GNEC HACKATHON | Biosense | Top 10 Participants | [View](biosense.onrender.com) |
-| 2023 | MLH - Hacks for Hackers | MLH - Hacks for Hackers | N/A | N/A |
-| 2023 | Katy Youth Hacks | EcoRead | N/A | [View]( ecoread.streamlit.app) |
-| 2023 | Hackspree 1.0 | CommunityConnect | N/A | [View](https://github.com/Ansumanbhujabal/Hackspree1.0)
+<details>
+   <summary>Hackathons📌</summary>
+   
+   | Year | Name of Hackathon | Project | Achievement | Explore Project |
+   | ---- | ----------------- | ------- | ----------- | --------------- |
+   | 2023 | HackBytes II | PennyWise | Best use of Qoom | [View](https://penny-wise-one.vercel.app/) | 
+   | 2023 | TechTogether Online | SelfWatch | Best use of GitHub | N/A | 
+   | 2023 | GNEC HACKATHON | Biosense | Top 10 Participants | [View](biosense.onrender.com) |
+   | 2023 | MLH - Hacks for Hackers | MLH - Hacks for Hackers | N/A | N/A |
+   | 2023 | Katy Youth Hacks | EcoRead | N/A | [View]( ecoread.streamlit.app) |
+   | 2023 | Hackspree 1.0 | CommunityConnect | N/A | [View](https://github.com/Ansumanbhujabal/Hackspree1.0)
+   
+</details>
 
 <!---- ### Technologies I Use
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
