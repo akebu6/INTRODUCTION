@@ -11,6 +11,7 @@
 - I love writing in my free tiime, you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - Hobbies: watch anime, read novels, play chess, write and run
 - You can reach me on any of my socials listed below
+- View my portflio which is built using Streamlit, [link](https://portfolio-akebu.streamlit.app/) 
 
 ### Currently Learning
 - Data Analytics [Course Completed]
