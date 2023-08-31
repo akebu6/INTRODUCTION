@@ -1,4 +1,5 @@
-![banner](https://user-images.githubusercontent.com/74776297/172069872-0d430619-2edf-4335-9b8a-98e8fadd5a8d.png)
+![Banner](https://github.com/akebu6/akebu6/assets/74776297/8bc42fbf-064c-4a10-a12a-d56899d4abb8)
+
 
 ### About Me:
 - Software Enigineering College Student
