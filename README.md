@@ -30,11 +30,7 @@
 | 2023 | Katy Youth Hacks | EcoRead | N/A | [View]( ecoread.streamlit.app) |
 | 2023 | Hackspree 1.0 | CommunityConnect | N/A | [View](https://github.com/Ansumanbhujabal/Hackspree1.0)
 
-### Come connect with me:
-[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akebu-simasiku-24186720a/)
-[<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akebu6)
-
-<!--- ### Technologies I Use
+<!---- ### Technologies I Use
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 [<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://www.w3schools.com/cpp/)
 <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -48,19 +44,18 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) --->
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-<!--- ### Tools I use
+### Tools I use
 [<img alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />](https://www.figma.com/) 
 [<img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />](https://www.canva.com/)
 <img alt="intellij-idea" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <img alt="android" src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
 <img alt="git" src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25" />
-<img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
---->
+<img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" /> ----->
 
-<!--- <details>
+<details>
    <summary> GitHub Stats</summary>
    <img  align="center" width="48%" src="https://github-readme-stats.vercel.app/api?username=akebu6&show_icons=true&theme=algolia" />
    <img  align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akebu6&theme=algolia" />
@@ -71,6 +66,6 @@
    
 </details>
 
-akebu6/akebu6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Come connect with me:
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akebu-simasiku-24186720a/)
+[<img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akebu6)
