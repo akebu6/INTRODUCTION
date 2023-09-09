@@ -26,6 +26,7 @@
    
    | Year | Name of Hackathon | Project | Achievement | Explore Project |
    | ---- | ----------------- | ------- | ----------- | --------------- |
+   | 2022 | Holiday Hacks 2022 | Moody | All Girls Team | N/A |
    | 2023 | HackBytes II | PennyWise | Best use of Qoom | [View](https://penny-wise-one.vercel.app/) | 
    | 2023 | TechTogether Online | SelfWatch | Best use of GitHub | N/A | 
    | 2023 | GNEC HACKATHON | Biosense | Top 10 Participants | [View](biosense.onrender.com) |
