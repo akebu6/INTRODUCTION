@@ -5,7 +5,7 @@
 - Software Enigineering College Student
 - Google Summer of Code (2022) with Catrobat International Association working under PAINTROID
 - Streamlit Student Ambassador
-- Interested in Android Application, Data Science, Testing & QA and Cloud Computing
+- Interested in Android Application, AI/ML, Data Science, Testing & QA
 - An Open Source enthusiast and Contributor
 - I'm a Hackathon enthusiast open to collaborating on any projects
 - I love writing in my free tiime, you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
