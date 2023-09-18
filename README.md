@@ -16,7 +16,7 @@
 - Data Analytics [Course Completed]
 - Python
 - R for Data Analytics
-- Linear Algebra for ML & Data Science
+- Calculus for ML & Data Science
 
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/data-analysis-process-and-data-life-cycle">Data Analysis Process and Data Life Cycle</a></p>
