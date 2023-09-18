@@ -16,6 +16,7 @@
 - Data Analytics [Course Completed]
 - Python
 - R for Data Analytics
+- Linear Algebra for ML & Data Science [Course Completed]
 - Calculus for ML & Data Science
 
 ### Blogs
