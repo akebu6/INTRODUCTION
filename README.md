@@ -2,7 +2,6 @@
 
 
 ### 👩🏽‍💻About Me:
-- Software Enigineering College Student (senior)
 - Google Summer of Code (2022) with Catrobat International Association working under PAINTROID
 - Streamlit Student Ambassador
 - Interested in Android Application, AI/ML, Data Science, Testing & QA
