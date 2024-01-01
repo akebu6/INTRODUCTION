@@ -12,11 +12,7 @@
 - View my portflio here, [link](https://portfolio-akebu.streamlit.app/). It's entirely built using Streamlit 
 
 ### 🖥️Currently Learning
-- Data Analytics [Course Completed]
-- Python
-- R for Data Analytics
-- Linear Algebra for ML & Data Science [Course Completed]
-- Calculus for ML & Data Science
+- Data Science by IBM
 
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/data-analysis-process-and-data-life-cycle">Data Analysis Process and Data Life Cycle</a></p>
