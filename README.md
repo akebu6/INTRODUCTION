@@ -1,4 +1,4 @@
-![Banner](https://github.com/akebu6/akebu6/assets/74776297/8bc42fbf-064c-4a10-a12a-d56899d4abb8)
+![GitHub Banner](https://github.com/akebu6/akebu6/assets/74776297/56ef0abe-e109-4387-b7fd-905a6215abb3)
 
 
 ### 👩🏽‍💻About Me:
