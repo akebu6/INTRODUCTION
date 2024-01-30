@@ -16,7 +16,7 @@
 - Data Science by IBM
 
 ### Blogs
-<p>Recent Blog <a href="https://akebu6.hashnode.dev/data-analysis-process-and-data-life-cycle">Data Analysis Process and Data Life Cycle</a></p>
+<p>Recent Blog <a href="https://akebu6.hashnode.dev/github-actions-explained">GitHub Actions Explained</a></p>
 
 <details>
    <summary>📌Hackathons</summary>
