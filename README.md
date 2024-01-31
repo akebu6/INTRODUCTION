@@ -15,6 +15,9 @@
 ### 🖥️Currently Learning
 - Data Science by IBM
 
+### Current Project
+- Tutor: refactoring it for the next version
+
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/github-actions-explained">GitHub Actions Explained</a></p>
 
