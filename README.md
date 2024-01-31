@@ -10,7 +10,7 @@
 - I'm a Hackathon enthusiast open to collaborating on any projects, check out my Devpost [profile](https://devpost.com/akebu6)
 - I love writing in my free tiime, you can find some of my articles on my [hashnode profile](https://akebu6.hashnode.dev/)
 - You can reach me on any of my socials listed below for any collaboration on OSS projects
-- View my portflio here, [link](https://portfolio-akebu.streamlit.app/). It's entirely built using Streamlit 
+<!--- View my portflio here, [link](https://portfolio-akebu.streamlit.app/). It's entirely built using Streamlit --->
 
 ### 🖥️Currently Learning
 - Data Science by IBM
