@@ -17,6 +17,7 @@
 
 ### Current Project
 - [Tutor](https://github.com/akebu6/Tutor): refactoring it for the next version
+- Portfolio: built using `Nuxt.js`, `Vue.js` and `TailwindCss`
 
 ### Blogs
 <p>Recent Blog <a href="https://akebu6.hashnode.dev/github-actions-explained">GitHub Actions Explained</a></p>
